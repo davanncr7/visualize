@@ -1,8 +1,8 @@
 {
   "name": "reactjs",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "http://davanntet.me",
+  "private": true,
+  "homepage": "http://davanncr7.github.io/chart",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
