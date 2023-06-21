@@ -2,7 +2,7 @@
   "name": "reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://davanncr7.github.io/chart",
+  "homepage": "http://davanncr7.github.io/visualize",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
@@ -63,7 +63,7 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
